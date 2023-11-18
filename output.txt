@@ -1,0 +1,5 @@
+Optimal Hold: 18
+With Value: $1777.236
+
+Optimal Part 2 Hold: 6
+With Value: $556.036
